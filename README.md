@@ -18,4 +18,5 @@ During the process of this project, I experienced the interactive relationship b
 
 ### Badge 
 Finally, I got the badge.
+
 <img src="https://github.com/kkwwym/BCG-Data-Science-and-Analytics-Virtual-Experience-Program/blob/main/badge.png" alt="Cover" width="50%"/>
