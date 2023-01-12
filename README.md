@@ -4,5 +4,5 @@ This is a project I participated in BCG GAMMA online internship with their data 
 
 The following steps are what we actually have done.
 
-<img src="https://github.com/kkwwym/BCG-Data-Science-and-Analytics-Virtual-Experience-Program/blob/main/outline.png" alt="Cover" width="70%"/>
+<img src="https://github.com/kkwwym/BCG-Data-Science-and-Analytics-Virtual-Experience-Program/blob/main/outline.png" alt="Cover" width="90%"/>
 
