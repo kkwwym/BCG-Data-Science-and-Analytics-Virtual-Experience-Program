@@ -8,7 +8,7 @@ The following steps are what we actually have done.
 <img src="https://github.com/kkwwym/BCG-Data-Science-and-Analytics-Virtual-Experience-Program/blob/main/outline.png" alt="Cover" width="90%"/>
 
 ### Sharing
-Unfortunately, I can't show the whole process of this project. But here I would like to share with you my experience and thoughts in doing this project and what learned from it.
+Unfortunately, I can't show the whole process of this project. So here I am goint to share with you my experience and thoughts in doing this project and what learned from it.
 
 
 Although this is an online internship project, there is still an opportunity to interact with BCG data scientists.  At the beginning, we need to send our ideas to the supervisor by email.
