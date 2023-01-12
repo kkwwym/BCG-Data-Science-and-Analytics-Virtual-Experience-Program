@@ -6,3 +6,5 @@ The following steps are what we actually have done.
 
 <img src="https://github.com/kkwwym/BCG-Data-Science-and-Analytics-Virtual-Experience-Program/blob/main/outline.png" alt="Cover" width="90%"/>
 
+Finally,I got the badge.
+<img src="https://github.com/kkwwym/BCG-Data-Science-and-Analytics-Virtual-Experience-Program/blob/main/badge.png" alt="Cover" width="90%"/>
